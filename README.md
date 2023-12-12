@@ -1,12 +1,16 @@
-# Tiago S S Gaspar
+<h1 align="center">Tiago S S Gaspar</h1>
 
-## 👨‍💻 Desenvolvedor Front-end
+<h2 align="center">👨‍💻 Desenvolvedor Front-end </h2>
 
-### Tecnologias:
-- JavaScript | TypeScript
-- Next.js | React
-- Tailwind CSS | HTML
+<p align="center">
+  <strong>Tecnologias:</strong><br>
+  JavaScript | TypeScript | Next.js | React | Tailwind CSS | HTML
+</p>
 
-### 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/tiago-s-s-gaspar/)
+<h3>📫 Contato</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/tiago-s-s-gaspar/">LinkedIn</a></li>
+</ul>
+
+
 
